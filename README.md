@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 ##Deployment
 added development code 
+##Copyright
+mjbjkgvjndvgbcmhn
