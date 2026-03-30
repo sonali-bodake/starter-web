@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 added development code 
 ##Copyright
 mjbjkgvjndvgbcmhn
+All rights are reserved
